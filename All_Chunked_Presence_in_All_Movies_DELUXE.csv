@@ -1,0 +1,433 @@
+,Timeline,Identity,Value,Role,Title
+0,1,Kesa,6,Love,Jigoku Mon
+1,1,Moritoo,13,Protagonist,Jigoku Mon
+2,1,Jeff,40,Protagonist,Human Desire
+3,1,Carl,8,Rival,Human Desire
+4,1,Zhanwu,20,Protagonist,Our Village
+5,1,Keming,16,Rival,Our Village
+6,1,Shuzhen,4,Love,Our Village
+7,1,Fan,45,Love,Cliff
+8,1,Fang,47,Protagonist,Cliff
+9,1,Jin,12,Protagonist,Waves of Life
+10,1,Ye,9,Love,Waves of Life
+11,1,Bo,15,Rival,Waves of Life
+12,1,Suhua,21,Protagonist,Diary of Nurse
+13,1,Haoru,9,Rival,Diary of Nurse
+14,1,Changping,8,Love,Diary of Nurse
+15,1,Pearl,47,Protagonist,Duel in the Sun
+16,1,Jesse,1,Rival,Duel in the Sun
+17,1,Will,24,Protagonist,The Man from Laramie
+18,1,Barbara,16,Love,The Man from Laramie
+19,1,Nishida,16,Protagonist,Black River
+20,1,Hitokiri,10,Rival,Black River
+21,1,Shizuko,2,Love,Black River
+22,1,Alicia,119,Protagonist,Notorious
+23,1,Devlin,58,Love,Notorious
+24,1,Curly,68,Protagonist,Oklahoma
+25,1,Laurey,64,Love,Oklahoma
+26,1,Jud,2,Rival,Oklahoma
+27,1,Natsuhisa,37,Rival,Kurutta Kajitsu
+28,1,Haruji,50,Protagonist,Kurutta Kajitsu
+29,1,Eri,2,Love,Kurutta Kajitsu
+30,1,Mohei,3,Protagonist,Chikamatsu Story
+31,1,Osan,13,Love,Chikamatsu Story
+32,1,Ishun,20,Rival,Chikamatsu Story
+33,1,Johnny,101,Protagonist,Gilda
+34,1,Ballin,13,Rival,Gilda
+35,1,Morgana,7,Love,Vikings
+36,1,Einar,1,Rival,Vikings
+37,1,Sabrina,48,Protagonist,Sabrina
+38,1,David,6,Rival,Sabrina
+39,1,Linus,5,Love,Sabrina
+40,1,Wataru,0,Rival,Jigoku Mon
+41,1,Vicki,0,Love,Human Desire
+42,1,Professor,0,Rival,Cliff
+43,1,Lewt,0,Love,Duel in the Sun
+44,1,Vic,0,Rival,The Man from Laramie
+45,1,Alex,0,Rival,Notorious
+46,1,Gilda,0,Love,Gilda
+47,1,Eric,0,Protagonist,Vikings
+48,2,Kesa,4,Love,Jigoku Mon
+49,2,Moritoo,17,Protagonist,Jigoku Mon
+50,2,Wataru,7,Rival,Jigoku Mon
+51,2,Jeff,21,Protagonist,Human Desire
+52,2,Vicki,42,Love,Human Desire
+53,2,Carl,51,Rival,Human Desire
+54,2,Shuzhen,29,Love,Our Village
+55,2,Zhanwu,41,Protagonist,Our Village
+56,2,Keming,7,Rival,Our Village
+57,2,Fan,64,Love,Cliff
+58,2,Fang,39,Protagonist,Cliff
+59,2,Professor,26,Rival,Cliff
+60,2,Ye,32,Love,Waves of Life
+61,2,Jin,24,Protagonist,Waves of Life
+62,2,Bo,12,Rival,Waves of Life
+63,2,Haoru,43,Rival,Diary of Nurse
+64,2,Suhua,37,Protagonist,Diary of Nurse
+65,2,Changping,11,Love,Diary of Nurse
+66,2,Pearl,114,Protagonist,Duel in the Sun
+67,2,Jesse,27,Rival,Duel in the Sun
+68,2,Lewt,34,Love,Duel in the Sun
+69,2,Barbara,17,Love,The Man from Laramie
+70,2,Will,28,Protagonist,The Man from Laramie
+71,2,Nishida,5,Protagonist,Black River
+72,2,Hitokiri,2,Rival,Black River
+73,2,Alicia,137,Protagonist,Notorious
+74,2,Devlin,87,Love,Notorious
+75,2,Curly,3,Protagonist,Oklahoma
+76,2,Jud,2,Rival,Oklahoma
+77,2,Laurey,20,Love,Oklahoma
+78,2,Haruji,18,Protagonist,Kurutta Kajitsu
+79,2,Natsuhisa,21,Rival,Kurutta Kajitsu
+80,2,Eri,13,Love,Kurutta Kajitsu
+81,2,Ishun,17,Rival,Chikamatsu Story
+82,2,Osan,2,Love,Chikamatsu Story
+83,2,Mohei,45,Protagonist,Chikamatsu Story
+84,2,Johnny,79,Protagonist,Gilda
+85,2,Ballin,26,Rival,Gilda
+86,2,Gilda,36,Love,Gilda
+87,2,Einar,31,Rival,Vikings
+88,2,Eric,11,Protagonist,Vikings
+89,2,Sabrina,44,Protagonist,Sabrina
+90,2,Linus,41,Love,Sabrina
+91,2,Vic,0,Rival,The Man from Laramie
+92,2,Shizuko,0,Love,Black River
+93,2,Alex,0,Rival,Notorious
+94,2,Morgana,0,Love,Vikings
+95,2,David,0,Rival,Sabrina
+96,3,Moritoo,26,Protagonist,Jigoku Mon
+97,3,Kesa,7,Love,Jigoku Mon
+98,3,Wataru,1,Rival,Jigoku Mon
+99,3,Carl,48,Rival,Human Desire
+100,3,Vicki,32,Love,Human Desire
+101,3,Jeff,1,Protagonist,Human Desire
+102,3,Keming,7,Rival,Our Village
+103,3,Shuzhen,29,Love,Our Village
+104,3,Zhanwu,29,Protagonist,Our Village
+105,3,Professor,30,Rival,Cliff
+106,3,Fang,23,Protagonist,Cliff
+107,3,Fan,11,Love,Cliff
+108,3,Jin,54,Protagonist,Waves of Life
+109,3,Bo,26,Rival,Waves of Life
+110,3,Ye,28,Love,Waves of Life
+111,3,Suhua,77,Protagonist,Diary of Nurse
+112,3,Haoru,6,Rival,Diary of Nurse
+113,3,Pearl,86,Protagonist,Duel in the Sun
+114,3,Lewt,34,Love,Duel in the Sun
+115,3,Jesse,11,Rival,Duel in the Sun
+116,3,Will,45,Protagonist,The Man from Laramie
+117,3,Barbara,12,Love,The Man from Laramie
+118,3,Vic,3,Rival,The Man from Laramie
+119,3,Hitokiri,25,Rival,Black River
+120,3,Shizuko,20,Love,Black River
+121,3,Nishida,2,Protagonist,Black River
+122,3,Alicia,73,Protagonist,Notorious
+123,3,Devlin,71,Love,Notorious
+124,3,Laurey,54,Love,Oklahoma
+125,3,Haruji,17,Protagonist,Kurutta Kajitsu
+126,3,Eri,34,Love,Kurutta Kajitsu
+127,3,Natsuhisa,5,Rival,Kurutta Kajitsu
+128,3,Mohei,10,Protagonist,Chikamatsu Story
+129,3,Osan,18,Love,Chikamatsu Story
+130,3,Ishun,3,Rival,Chikamatsu Story
+131,3,Johnny,98,Protagonist,Gilda
+132,3,Ballin,34,Rival,Gilda
+133,3,Gilda,128,Love,Gilda
+134,3,Einar,26,Rival,Vikings
+135,3,Eric,34,Protagonist,Vikings
+136,3,Sabrina,62,Protagonist,Sabrina
+137,3,Linus,28,Love,Sabrina
+138,3,David,30,Rival,Sabrina
+139,3,Changping,0,Love,Diary of Nurse
+140,3,Alex,0,Rival,Notorious
+141,3,Curly,0,Protagonist,Oklahoma
+142,3,Jud,0,Rival,Oklahoma
+143,3,Morgana,0,Love,Vikings
+144,4,Moritoo,33,Protagonist,Jigoku Mon
+145,4,Kesa,44,Love,Jigoku Mon
+146,4,Wataru,6,Rival,Jigoku Mon
+147,4,Carl,12,Rival,Human Desire
+148,4,Vicki,52,Love,Human Desire
+149,4,Jeff,41,Protagonist,Human Desire
+150,4,Zhanwu,43,Protagonist,Our Village
+151,4,Shuzhen,30,Love,Our Village
+152,4,Keming,4,Rival,Our Village
+153,4,Fang,58,Protagonist,Cliff
+154,4,Professor,46,Rival,Cliff
+155,4,Bo,37,Rival,Waves of Life
+156,4,Jin,14,Protagonist,Waves of Life
+157,4,Ye,30,Love,Waves of Life
+158,4,Suhua,43,Protagonist,Diary of Nurse
+159,4,Changping,40,Love,Diary of Nurse
+160,4,Haoru,5,Rival,Diary of Nurse
+161,4,Pearl,32,Protagonist,Duel in the Sun
+162,4,Lewt,6,Love,Duel in the Sun
+163,4,Jesse,21,Rival,Duel in the Sun
+164,4,Will,59,Protagonist,The Man from Laramie
+165,4,Vic,22,Rival,The Man from Laramie
+166,4,Nishida,8,Protagonist,Black River
+167,4,Hitokiri,19,Rival,Black River
+168,4,Shizuko,9,Love,Black River
+169,4,Alicia,90,Protagonist,Notorious
+170,4,Alex,49,Rival,Notorious
+171,4,Devlin,15,Love,Notorious
+172,4,Laurey,54,Love,Oklahoma
+173,4,Curly,110,Protagonist,Oklahoma
+174,4,Jud,95,Rival,Oklahoma
+175,4,Haruji,17,Protagonist,Kurutta Kajitsu
+176,4,Eri,14,Love,Kurutta Kajitsu
+177,4,Natsuhisa,15,Rival,Kurutta Kajitsu
+178,4,Mohei,9,Protagonist,Chikamatsu Story
+179,4,Osan,16,Love,Chikamatsu Story
+180,4,Ishun,3,Rival,Chikamatsu Story
+181,4,Ballin,35,Rival,Gilda
+182,4,Johnny,78,Protagonist,Gilda
+183,4,Gilda,24,Love,Gilda
+184,4,Morgana,33,Love,Vikings
+185,4,Einar,33,Rival,Vikings
+186,4,Eric,21,Protagonist,Vikings
+187,4,David,45,Rival,Sabrina
+188,4,Sabrina,46,Protagonist,Sabrina
+189,4,Linus,8,Love,Sabrina
+190,4,Fan,0,Love,Cliff
+191,4,Barbara,0,Love,The Man from Laramie
+192,5,Wataru,33,Rival,Jigoku Mon
+193,5,Kesa,9,Love,Jigoku Mon
+194,5,Moritoo,12,Protagonist,Jigoku Mon
+195,5,Jeff,81,Protagonist,Human Desire
+196,5,Carl,10,Rival,Human Desire
+197,5,Vicki,67,Love,Human Desire
+198,5,Shuzhen,56,Love,Our Village
+199,5,Zhanwu,39,Protagonist,Our Village
+200,5,Keming,7,Rival,Our Village
+201,5,Professor,21,Rival,Cliff
+202,5,Fang,68,Protagonist,Cliff
+203,5,Fan,2,Love,Cliff
+204,5,Bo,7,Rival,Waves of Life
+205,5,Jin,67,Protagonist,Waves of Life
+206,5,Ye,14,Love,Waves of Life
+207,5,Changping,12,Love,Diary of Nurse
+208,5,Suhua,28,Protagonist,Diary of Nurse
+209,5,Haoru,2,Rival,Diary of Nurse
+210,5,Pearl,121,Protagonist,Duel in the Sun
+211,5,Lewt,49,Love,Duel in the Sun
+212,5,Jesse,24,Rival,Duel in the Sun
+213,5,Will,36,Protagonist,The Man from Laramie
+214,5,Barbara,13,Love,The Man from Laramie
+215,5,Vic,11,Rival,The Man from Laramie
+216,5,Nishida,25,Protagonist,Black River
+217,5,Hitokiri,17,Rival,Black River
+218,5,Shizuko,32,Love,Black River
+219,5,Alex,48,Rival,Notorious
+220,5,Devlin,79,Love,Notorious
+221,5,Alicia,92,Protagonist,Notorious
+222,5,Curly,55,Protagonist,Oklahoma
+223,5,Jud,43,Rival,Oklahoma
+224,5,Laurey,61,Love,Oklahoma
+225,5,Natsuhisa,30,Rival,Kurutta Kajitsu
+226,5,Eri,32,Love,Kurutta Kajitsu
+227,5,Haruji,3,Protagonist,Kurutta Kajitsu
+228,5,Ishun,25,Rival,Chikamatsu Story
+229,5,Mohei,30,Protagonist,Chikamatsu Story
+230,5,Johnny,31,Protagonist,Gilda
+231,5,Gilda,62,Love,Gilda
+232,5,Ballin,2,Rival,Gilda
+233,5,Morgana,47,Love,Vikings
+234,5,Einar,41,Rival,Vikings
+235,5,Eric,12,Protagonist,Vikings
+236,5,Sabrina,78,Protagonist,Sabrina
+237,5,David,42,Rival,Sabrina
+238,5,Linus,31,Love,Sabrina
+239,5,Osan,0,Love,Chikamatsu Story
+240,6,Moritoo,30,Protagonist,Jigoku Mon
+241,6,Wataru,21,Rival,Jigoku Mon
+242,6,Kesa,5,Love,Jigoku Mon
+243,6,Vicki,77,Love,Human Desire
+244,6,Jeff,39,Protagonist,Human Desire
+245,6,Carl,15,Rival,Human Desire
+246,6,Shuzhen,39,Love,Our Village
+247,6,Zhanwu,48,Protagonist,Our Village
+248,6,Keming,26,Rival,Our Village
+249,6,Fang,85,Protagonist,Cliff
+250,6,Professor,28,Rival,Cliff
+251,6,Jin,30,Protagonist,Waves of Life
+252,6,Ye,5,Love,Waves of Life
+253,6,Bo,2,Rival,Waves of Life
+254,6,Suhua,58,Protagonist,Diary of Nurse
+255,6,Changping,4,Love,Diary of Nurse
+256,6,Haoru,1,Rival,Diary of Nurse
+257,6,Pearl,89,Protagonist,Duel in the Sun
+258,6,Lewt,24,Love,Duel in the Sun
+259,6,Jesse,14,Rival,Duel in the Sun
+260,6,Vic,33,Rival,The Man from Laramie
+261,6,Will,5,Protagonist,The Man from Laramie
+262,6,Nishida,24,Protagonist,Black River
+263,6,Hitokiri,2,Rival,Black River
+264,6,Shizuko,7,Love,Black River
+265,6,Alicia,114,Protagonist,Notorious
+266,6,Alex,15,Rival,Notorious
+267,6,Devlin,72,Love,Notorious
+268,6,Jud,25,Rival,Oklahoma
+269,6,Laurey,21,Love,Oklahoma
+270,6,Curly,1,Protagonist,Oklahoma
+271,6,Eri,29,Love,Kurutta Kajitsu
+272,6,Natsuhisa,20,Rival,Kurutta Kajitsu
+273,6,Haruji,28,Protagonist,Kurutta Kajitsu
+274,6,Osan,18,Love,Chikamatsu Story
+275,6,Mohei,21,Protagonist,Chikamatsu Story
+276,6,Ishun,1,Rival,Chikamatsu Story
+277,6,Johnny,47,Protagonist,Gilda
+278,6,Ballin,40,Rival,Gilda
+279,6,Gilda,43,Love,Gilda
+280,6,Morgana,69,Love,Vikings
+281,6,Eric,55,Protagonist,Vikings
+282,6,Einar,2,Rival,Vikings
+283,6,David,12,Rival,Sabrina
+284,6,Linus,90,Love,Sabrina
+285,6,Sabrina,33,Protagonist,Sabrina
+286,6,Fan,0,Love,Cliff
+287,6,Barbara,0,Love,The Man from Laramie
+288,7,Moritoo,11,Protagonist,Jigoku Mon
+289,7,Kesa,70,Love,Jigoku Mon
+290,7,Wataru,3,Rival,Jigoku Mon
+291,7,Jeff,80,Protagonist,Human Desire
+292,7,Vicki,22,Love,Human Desire
+293,7,Keming,24,Rival,Our Village
+294,7,Zhanwu,36,Protagonist,Our Village
+295,7,Shuzhen,14,Love,Our Village
+296,7,Fang,36,Protagonist,Cliff
+297,7,Professor,29,Rival,Cliff
+298,7,Fan,4,Love,Cliff
+299,7,Jin,66,Protagonist,Waves of Life
+300,7,Ye,5,Love,Waves of Life
+301,7,Suhua,45,Protagonist,Diary of Nurse
+302,7,Changping,9,Love,Diary of Nurse
+303,7,Haoru,16,Rival,Diary of Nurse
+304,7,Lewt,19,Love,Duel in the Sun
+305,7,Pearl,36,Protagonist,Duel in the Sun
+306,7,Vic,6,Rival,The Man from Laramie
+307,7,Will,22,Protagonist,The Man from Laramie
+308,7,Barbara,23,Love,The Man from Laramie
+309,7,Nishida,54,Protagonist,Black River
+310,7,Shizuko,79,Love,Black River
+311,7,Hitokiri,4,Rival,Black River
+312,7,Devlin,20,Love,Notorious
+313,7,Alicia,30,Protagonist,Notorious
+314,7,Alex,59,Rival,Notorious
+315,7,Curly,18,Protagonist,Oklahoma
+316,7,Laurey,8,Love,Oklahoma
+317,7,Jud,19,Rival,Oklahoma
+318,7,Haruji,36,Protagonist,Kurutta Kajitsu
+319,7,Eri,39,Love,Kurutta Kajitsu
+320,7,Natsuhisa,12,Rival,Kurutta Kajitsu
+321,7,Mohei,14,Protagonist,Chikamatsu Story
+322,7,Osan,2,Love,Chikamatsu Story
+323,7,Ishun,4,Rival,Chikamatsu Story
+324,7,Johnny,90,Protagonist,Gilda
+325,7,Gilda,64,Love,Gilda
+326,7,Ballin,1,Rival,Gilda
+327,7,Einar,46,Rival,Vikings
+328,7,Eric,12,Protagonist,Vikings
+329,7,Sabrina,84,Protagonist,Sabrina
+330,7,Linus,59,Love,Sabrina
+331,7,David,15,Rival,Sabrina
+332,7,Carl,0,Rival,Human Desire
+333,7,Bo,0,Rival,Waves of Life
+334,7,Jesse,0,Rival,Duel in the Sun
+335,7,Morgana,0,Love,Vikings
+336,8,Wataru,8,Rival,Jigoku Mon
+337,8,Kesa,46,Love,Jigoku Mon
+338,8,Moritoo,13,Protagonist,Jigoku Mon
+339,8,Jeff,24,Protagonist,Human Desire
+340,8,Carl,2,Rival,Human Desire
+341,8,Vicki,12,Love,Human Desire
+342,8,Shuzhen,1,Love,Our Village
+343,8,Zhanwu,17,Protagonist,Our Village
+344,8,Keming,8,Rival,Our Village
+345,8,Professor,1,Rival,Cliff
+346,8,Fang,40,Protagonist,Cliff
+347,8,Fan,1,Love,Cliff
+348,8,Jin,57,Protagonist,Waves of Life
+349,8,Bo,1,Rival,Waves of Life
+350,8,Haoru,47,Rival,Diary of Nurse
+351,8,Suhua,65,Protagonist,Diary of Nurse
+352,8,Jesse,30,Rival,Duel in the Sun
+353,8,Pearl,20,Protagonist,Duel in the Sun
+354,8,Lewt,2,Love,Duel in the Sun
+355,8,Will,7,Protagonist,The Man from Laramie
+356,8,Vic,40,Rival,The Man from Laramie
+357,8,Barbara,16,Love,The Man from Laramie
+358,8,Nishida,34,Protagonist,Black River
+359,8,Shizuko,7,Love,Black River
+360,8,Hitokiri,12,Rival,Black River
+361,8,Alex,27,Rival,Notorious
+362,8,Alicia,115,Protagonist,Notorious
+363,8,Devlin,19,Love,Notorious
+364,8,Laurey,27,Love,Oklahoma
+365,8,Jud,19,Rival,Oklahoma
+366,8,Curly,37,Protagonist,Oklahoma
+367,8,Natsuhisa,8,Rival,Kurutta Kajitsu
+368,8,Haruji,25,Protagonist,Kurutta Kajitsu
+369,8,Eri,4,Love,Kurutta Kajitsu
+370,8,Ishun,10,Rival,Chikamatsu Story
+371,8,Mohei,12,Protagonist,Chikamatsu Story
+372,8,Osan,5,Love,Chikamatsu Story
+373,8,Johnny,26,Protagonist,Gilda
+374,8,Gilda,105,Love,Gilda
+375,8,Einar,5,Rival,Vikings
+376,8,Eric,3,Protagonist,Vikings
+377,8,Linus,69,Love,Sabrina
+378,8,Sabrina,90,Protagonist,Sabrina
+379,8,Ye,0,Love,Waves of Life
+380,8,Changping,0,Love,Diary of Nurse
+381,8,Ballin,0,Rival,Gilda
+382,8,Morgana,0,Love,Vikings
+383,8,David,0,Rival,Sabrina
+384,9,Moritoo,67,Protagonist,Jigoku Mon
+385,9,Kesa,1,Love,Jigoku Mon
+386,9,Wataru,31,Rival,Jigoku Mon
+387,9,Vicki,75,Love,Human Desire
+388,9,Jeff,58,Protagonist,Human Desire
+389,9,Carl,32,Rival,Human Desire
+390,9,Keming,17,Rival,Our Village
+391,9,Shuzhen,23,Love,Our Village
+392,9,Zhanwu,17,Protagonist,Our Village
+393,9,Fan,20,Love,Cliff
+394,9,Fang,31,Protagonist,Cliff
+395,9,Jin,45,Protagonist,Waves of Life
+396,9,Ye,24,Love,Waves of Life
+397,9,Bo,19,Rival,Waves of Life
+398,9,Suhua,60,Protagonist,Diary of Nurse
+399,9,Changping,15,Love,Diary of Nurse
+400,9,Haoru,5,Rival,Diary of Nurse
+401,9,Pearl,88,Protagonist,Duel in the Sun
+402,9,Lewt,47,Love,Duel in the Sun
+403,9,Barbara,4,Love,The Man from Laramie
+404,9,Vic,6,Rival,The Man from Laramie
+405,9,Will,29,Protagonist,The Man from Laramie
+406,9,Hitokiri,31,Rival,Black River
+407,9,Shizuko,40,Love,Black River
+408,9,Nishida,23,Protagonist,Black River
+409,9,Devlin,90,Love,Notorious
+410,9,Alex,25,Rival,Notorious
+411,9,Alicia,41,Protagonist,Notorious
+412,9,Jud,1,Rival,Oklahoma
+413,9,Laurey,8,Love,Oklahoma
+414,9,Curly,6,Protagonist,Oklahoma
+415,9,Eri,48,Love,Kurutta Kajitsu
+416,9,Natsuhisa,33,Rival,Kurutta Kajitsu
+417,9,Haruji,33,Protagonist,Kurutta Kajitsu
+418,9,Osan,9,Love,Chikamatsu Story
+419,9,Mohei,27,Protagonist,Chikamatsu Story
+420,9,Ishun,17,Rival,Chikamatsu Story
+421,9,Johnny,65,Protagonist,Gilda
+422,9,Gilda,57,Love,Gilda
+423,9,Ballin,6,Rival,Gilda
+424,9,Einar,58,Rival,Vikings
+425,9,Morgana,21,Love,Vikings
+426,9,Eric,17,Protagonist,Vikings
+427,9,Sabrina,30,Protagonist,Sabrina
+428,9,Linus,40,Love,Sabrina
+429,9,David,14,Rival,Sabrina
+430,9,Professor,0,Rival,Cliff
+431,9,Jesse,0,Rival,Duel in the Sun

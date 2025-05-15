@@ -1,0 +1,399 @@
+,Timeline,Identity,Value,Role,Title
+0,1,Kesa,0.001506149592135982,Love,Jigoku Mon
+1,1,Moritoo,0.0035621903321100172,Protagonist,Jigoku Mon
+2,1,Jeff,0.0014784661956880718,Protagonist,Human Desire
+3,1,Carl,0.002175388448375049,Rival,Human Desire
+4,1,Zhanwu,0.0017867123304615164,Protagonist,Our Village
+5,1,Keming,0.002151651914561246,Rival,Our Village
+6,1,Shuzhen,0.0015221112153477462,Love,Our Village
+7,1,Fan Jun,0.003782393439048527,Love,Cliff
+8,1,Fang Qing,0.0050093093339110975,Protagonist,Cliff
+9,1,Jin Zhang,0.001802838041721987,Protagonist,Waves of Life
+10,1,Ye Suping,0.001772073840756747,Love,Waves of Life
+11,1,Bo Kang,0.0016299915194165982,Rival,Waves of Life
+12,1,Suhua,0.0027685207140262713,Protagonist,Diary of Nurse
+13,1,Haoru,0.0010463107376132152,Rival,Diary of Nurse
+14,1,Changping,0.0021313813606917975,Love,Diary of Nurse
+15,1,Pearl,0.0030313520847298527,Protagonist,Duel in the Sun
+16,1,Jesse,0.0038574056589080197,Rival,Duel in the Sun
+17,1,Will,0.0015428183823309807,Protagonist,The Man from Laramie
+18,1,Barbara,0.0012843506987078386,Love,The Man from Laramie
+19,1,Nishida,0.003501713691528764,Protagonist,Black River
+20,1,Hitokiri Joe,0.0017792248878885648,Rival,Black River
+21,1,Shizuko,0.003337025077192232,Love,Black River
+22,1,Alicia,0.0033327068957561697,Protagonist,Notorious
+23,1,Devlin,0.0030421102209916132,Love,Notorious
+24,1,Curly,0.0017754296093085338,Protagonist,Oklahoma
+25,1,Laurey,0.00169119757690845,Love,Oklahoma
+26,1,Jud,0.0014659925247219596,Rival,Oklahoma
+27,1,Natsuhisa,0.008978939491954628,Rival,Kurutta Kajitsu
+28,1,Haruji,0.007373674461335117,Protagonist,Kurutta Kajitsu
+29,1,Eri,0.0014873803408653949,Love,Kurutta Kajitsu
+30,1,Mohei,0.0017592149570047945,Protagonist,Chikamatsu Story
+31,1,Osan,0.0019467448590282594,Love,Chikamatsu Story
+32,1,Ishun,0.0008088562860181015,Rival,Chikamatsu Story
+33,1,Johnny,0.002894146392388643,Protagonist,Gilda
+34,1,Ballin,0.0017165410942042323,Rival,Gilda
+35,1,Morgana,0.002060396386376765,Love,Vikings
+36,1,Einar,0.0010008433201034311,Rival,Vikings
+37,1,Sabrina,0.0037524249596057983,Protagonist,Sabrina
+38,1,David,0.0018203107820549448,Rival,Sabrina
+39,1,Linus,0.002582969137535143,Love,Sabrina
+40,2,Kesa,0.0030453239888205696,Love,Jigoku Mon
+41,2,Moritoo,0.0020075715969149555,Protagonist,Jigoku Mon
+42,2,Wataru,0.0027534925101688735,Rival,Jigoku Mon
+43,2,Jeff,0.00154628165397452,Protagonist,Human Desire
+44,2,Vicki,0.001948832848925415,Love,Human Desire
+45,2,Carl,0.0020626405060525867,Rival,Human Desire
+46,2,Shuzhen,0.005424945898088516,Love,Our Village
+47,2,Zhanwu,0.0032852308740280865,Protagonist,Our Village
+48,2,Keming,0.003209216754450369,Rival,Our Village
+49,2,Fan Jun,0.004060670139355117,Love,Cliff
+50,2,Fang Qing,0.005650080491765993,Protagonist,Cliff
+51,2,Professor Yuan,0.002451490196430617,Rival,Cliff
+52,2,Ye Suping,0.002438904959244197,Love,Waves of Life
+53,2,Jin Zhang,0.0013878344208277155,Protagonist,Waves of Life
+54,2,Bo Kang,0.0028675514523347797,Rival,Waves of Life
+55,2,Haoru,0.0013943341954775206,Rival,Diary of Nurse
+56,2,Suhua,0.002255524324484127,Protagonist,Diary of Nurse
+57,2,Changping,0.0016944127033102175,Love,Diary of Nurse
+58,2,Pearl,0.0031811042677787685,Protagonist,Duel in the Sun
+59,2,Jesse,0.002344249609962012,Rival,Duel in the Sun
+60,2,Lewt,0.0016602085550287964,Love,Duel in the Sun
+61,2,Barbara,0.0018586965726163334,Love,The Man from Laramie
+62,2,Will,0.002381550794964059,Protagonist,The Man from Laramie
+63,2,Nishida,0.003971859753271875,Protagonist,Black River
+64,2,Hitokiri Joe,0.0009356109753695455,Rival,Black River
+65,2,Alicia,0.005118194999193429,Protagonist,Notorious
+66,2,Devlin,0.0038033423761227357,Love,Notorious
+67,2,Curly,0.0007935975446083839,Protagonist,Oklahoma
+68,2,Jud,0.0013810407680945186,Rival,Oklahoma
+69,2,Laurey,0.0014308460529676484,Love,Oklahoma
+70,2,Haruji,0.001754878237955504,Protagonist,Kurutta Kajitsu
+71,2,Natsuhisa,0.001554696988552228,Rival,Kurutta Kajitsu
+72,2,Eri,0.0018259291638113605,Love,Kurutta Kajitsu
+73,2,Ishun,0.0008239911223105049,Rival,Chikamatsu Story
+74,2,Osan,0.0006010088925686614,Love,Chikamatsu Story
+75,2,Mohei,0.0009431084980492256,Protagonist,Chikamatsu Story
+76,2,Johnny,0.0021808093109135064,Protagonist,Gilda
+77,2,Ballin,0.0014721636079567822,Rival,Gilda
+78,2,Gilda,0.003114733006579758,Love,Gilda
+79,2,Einar,0.0027674522946735947,Rival,Vikings
+80,2,Eric,0.0011978296132010959,Protagonist,Vikings
+81,2,Sabrina,0.0029519908316563304,Protagonist,Sabrina
+82,2,Linus,0.001587912120414954,Love,Sabrina
+83,3,Moritoo,0.0023710620769997175,Protagonist,Jigoku Mon
+84,3,Kesa,0.004584933999483208,Love,Jigoku Mon
+85,3,Wataru,0.0018690277581108472,Rival,Jigoku Mon
+86,3,Carl,0.0026639604007320673,Rival,Human Desire
+87,3,Vicki,0.0026126219760513386,Love,Human Desire
+88,3,Jeff,0.0009443647096029073,Protagonist,Human Desire
+89,3,Keming,0.0022873957850570318,Rival,Our Village
+90,3,Shuzhen,0.002070516705104768,Love,Our Village
+91,3,Zhanwu,0.004038390600892782,Protagonist,Our Village
+92,3,Professor Yuan,0.0020516724700595504,Rival,Cliff
+93,3,Fang Qing,0.003937065650456189,Protagonist,Cliff
+94,3,Fan Jun,0.0014624404896716565,Love,Cliff
+95,3,Jin Zhang,0.0015299225016710144,Protagonist,Waves of Life
+96,3,Bo Kang,0.0016583063346374027,Rival,Waves of Life
+97,3,Ye Suping,0.00183431269207206,Love,Waves of Life
+98,3,Suhua,0.002191609120528555,Protagonist,Diary of Nurse
+99,3,Haoru,0.0023704793204636205,Rival,Diary of Nurse
+100,3,Pearl,0.0033988538536086103,Protagonist,Duel in the Sun
+101,3,Lewt,0.002756032744783171,Love,Duel in the Sun
+102,3,Jesse,0.0016669182715547417,Rival,Duel in the Sun
+103,3,Will,0.0018556330921447712,Protagonist,The Man from Laramie
+104,3,Barbara,0.0021292802263677066,Love,The Man from Laramie
+105,3,Vic,0.0020410893236400642,Rival,The Man from Laramie
+106,3,Hitokiri Joe,0.0030247883154484252,Rival,Black River
+107,3,Shizuko,0.005751450676210723,Love,Black River
+108,3,Nishida,0.0026002662562594203,Protagonist,Black River
+109,3,Alicia,0.004470330367049201,Protagonist,Notorious
+110,3,Devlin,0.0045450222341775,Love,Notorious
+111,3,Laurey,0.001364752884690093,Love,Oklahoma
+112,3,Haruji,0.003079635808810847,Protagonist,Kurutta Kajitsu
+113,3,Eri,0.002270119952175084,Love,Kurutta Kajitsu
+114,3,Natsuhisa,0.002415480221113456,Rival,Kurutta Kajitsu
+115,3,Mohei,0.0020081587389293347,Protagonist,Chikamatsu Story
+116,3,Osan,0.0012170707578110218,Love,Chikamatsu Story
+117,3,Ishun,0.0010214790397239288,Rival,Chikamatsu Story
+118,3,Johnny,0.002217317138871372,Protagonist,Gilda
+119,3,Ballin,0.0030255063070638013,Rival,Gilda
+120,3,Gilda,0.003092644666114157,Love,Gilda
+121,3,Einar,0.0016990467873724583,Rival,Vikings
+122,3,Eric,0.002269304243197177,Protagonist,Vikings
+123,3,Sabrina,0.003723793738176838,Protagonist,Sabrina
+124,3,Linus,0.0014063375245146642,Love,Sabrina
+125,3,David,0.0029043075235163853,Rival,Sabrina
+126,4,Moritoo,0.0015172049674074034,Protagonist,Jigoku Mon
+127,4,Kesa,0.0018470360129368626,Love,Jigoku Mon
+128,4,Wataru,0.0017010852056653508,Rival,Jigoku Mon
+129,4,Carl,0.004045961491266286,Rival,Human Desire
+130,4,Vicki,0.002491137390810927,Love,Human Desire
+131,4,Jeff,0.0024134714365952287,Protagonist,Human Desire
+132,4,Zhanwu,0.005203047491916739,Protagonist,Our Village
+133,4,Shuzhen,0.003257802995219308,Love,Our Village
+134,4,Keming,0.0030085476018810973,Rival,Our Village
+135,4,Fang Qing,0.0031190277974014508,Protagonist,Cliff
+136,4,Professor Yuan,0.0018158803734582463,Rival,Cliff
+137,4,Bo Kang,0.0019724104669224625,Rival,Waves of Life
+138,4,Jin Zhang,0.0023415697091074303,Protagonist,Waves of Life
+139,4,Ye Suping,0.0014686911196541822,Love,Waves of Life
+140,4,Suhua,0.0020771324835676193,Protagonist,Diary of Nurse
+141,4,Changping,0.0016541844724891675,Love,Diary of Nurse
+142,4,Haoru,0.0019933416298868216,Rival,Diary of Nurse
+143,4,Pearl,0.001927836391368818,Protagonist,Duel in the Sun
+144,4,Lewt,0.000882972042807117,Love,Duel in the Sun
+145,4,Jesse,0.0032613354442052383,Rival,Duel in the Sun
+146,4,Will,0.0011150488213070115,Protagonist,The Man from Laramie
+147,4,Vic,0.002113112174211513,Rival,The Man from Laramie
+148,4,Nishida,0.0030393114376219754,Protagonist,Black River
+149,4,Hitokiri Joe,0.006127722135005261,Rival,Black River
+150,4,Shizuko,0.005250113856334072,Love,Black River
+151,4,Alicia,0.006288751822211526,Protagonist,Notorious
+152,4,Alex Sebastian,0.004452704139194597,Rival,Notorious
+153,4,Devlin,0.003778837352351073,Love,Notorious
+154,4,Laurey,0.0010595155649158747,Love,Oklahoma
+155,4,Curly,0.000874257881759529,Protagonist,Oklahoma
+156,4,Jud,0.0009616960936725678,Rival,Oklahoma
+157,4,Haruji,0.0016534583134836902,Protagonist,Kurutta Kajitsu
+158,4,Eri,0.001361424786084903,Love,Kurutta Kajitsu
+159,4,Natsuhisa,0.002330194927177329,Rival,Kurutta Kajitsu
+160,4,Mohei,0.0008170041091797147,Protagonist,Chikamatsu Story
+161,4,Osan,0.0007899807154417438,Love,Chikamatsu Story
+162,4,Ishun,0.0014212758827316513,Rival,Chikamatsu Story
+163,4,Ballin,0.0019262268891036478,Rival,Gilda
+164,4,Johnny,0.0018080922810568905,Protagonist,Gilda
+165,4,Gilda,0.0025574797077830623,Love,Gilda
+166,4,Morgana,0.001827965971998985,Love,Vikings
+167,4,Einar,0.0016527294947053005,Rival,Vikings
+168,4,Eric,0.0009982726968411943,Protagonist,Vikings
+169,4,David,0.004342375407520151,Rival,Sabrina
+170,4,Sabrina,0.0037348668215965446,Protagonist,Sabrina
+171,4,Linus,0.0016070594750316382,Love,Sabrina
+172,5,Wataru,0.0011514261695160823,Rival,Jigoku Mon
+173,5,Kesa,0.004581777770125139,Love,Jigoku Mon
+174,5,Moritoo,0.002292861130640351,Protagonist,Jigoku Mon
+175,5,Jeff,0.004012097954392798,Protagonist,Human Desire
+176,5,Carl,0.003909887203178024,Rival,Human Desire
+177,5,Vicki,0.005460028825697529,Love,Human Desire
+178,5,Shuzhen,0.00472632828628442,Love,Our Village
+179,5,Zhanwu,0.0023898654993422456,Protagonist,Our Village
+180,5,Keming,0.0013320628387001846,Rival,Our Village
+181,5,Professor Yuan,0.0014293374766401299,Rival,Cliff
+182,5,Fang Qing,0.0026419617548771967,Protagonist,Cliff
+183,5,Fan Jun,0.0010328037958756142,Love,Cliff
+184,5,Bo Kang,0.0028451906112228384,Rival,Waves of Life
+185,5,Jin Zhang,0.0022027590671146397,Protagonist,Waves of Life
+186,5,Ye Suping,0.004567000299617699,Love,Waves of Life
+187,5,Changping,0.0016702985353517104,Love,Diary of Nurse
+188,5,Suhua,0.0021147497007888718,Protagonist,Diary of Nurse
+189,5,Haoru,0.0022410095501340446,Rival,Diary of Nurse
+190,5,Pearl,0.0037604839817273476,Protagonist,Duel in the Sun
+191,5,Lewt,0.002161162454299672,Love,Duel in the Sun
+192,5,Jesse,0.004790095185786086,Rival,Duel in the Sun
+193,5,Will,0.002266188163481351,Protagonist,The Man from Laramie
+194,5,Barbara,0.0012445378034476214,Love,The Man from Laramie
+195,5,Vic,0.0006679517264763582,Rival,The Man from Laramie
+196,5,Nishida,0.003625830756750683,Protagonist,Black River
+197,5,Hitokiri Joe,0.003461665471926414,Rival,Black River
+198,5,Shizuko,0.004461891999827716,Love,Black River
+199,5,Alex Sebastian,0.0022697651706120882,Rival,Notorious
+200,5,Devlin,0.004675621917212586,Love,Notorious
+201,5,Alicia,0.00549855271015184,Protagonist,Notorious
+202,5,Curly,0.0013543832493666864,Protagonist,Oklahoma
+203,5,Jud,0.0015919115215519656,Rival,Oklahoma
+204,5,Laurey,0.001490582027400242,Love,Oklahoma
+205,5,Natsuhisa,0.004284466919224667,Rival,Kurutta Kajitsu
+206,5,Eri,0.004044654633141945,Love,Kurutta Kajitsu
+207,5,Haruji,0.0034067957673617477,Protagonist,Kurutta Kajitsu
+208,5,Ishun,0.0014618782580645567,Rival,Chikamatsu Story
+209,5,Mohei,0.0008641635764088657,Protagonist,Chikamatsu Story
+210,5,Johnny,0.0018478251321914893,Protagonist,Gilda
+211,5,Gilda,0.0022093822806794573,Love,Gilda
+212,5,Ballin,0.0014150473371334904,Rival,Gilda
+213,5,Morgana,0.0025285599359965694,Love,Vikings
+214,5,Einar,0.00262520508353948,Rival,Vikings
+215,5,Eric,0.0010908879766807118,Protagonist,Vikings
+216,5,Sabrina,0.0029689222751567742,Protagonist,Sabrina
+217,5,David,0.002534356697422522,Rival,Sabrina
+218,5,Linus,0.001859267846757756,Love,Sabrina
+219,6,Moritoo,0.0019637677437087573,Protagonist,Jigoku Mon
+220,6,Wataru,0.0018574098978842524,Rival,Jigoku Mon
+221,6,Kesa,0.0017527729796197517,Love,Jigoku Mon
+222,6,Vicki,0.003138228565295433,Love,Human Desire
+223,6,Jeff,0.0026870455613304044,Protagonist,Human Desire
+224,6,Carl,0.0012442031452127489,Rival,Human Desire
+225,6,Shuzhen,0.003206071409635379,Love,Our Village
+226,6,Zhanwu,0.003901479375271438,Protagonist,Our Village
+227,6,Keming,0.0019980502475646453,Rival,Our Village
+228,6,Fang Qing,0.0036760317145456338,Protagonist,Cliff
+229,6,Professor Yuan,0.0022185893902963516,Rival,Cliff
+230,6,Jin Zhang,0.004516728442207595,Protagonist,Waves of Life
+231,6,Ye Suping,0.0008623545937009064,Love,Waves of Life
+232,6,Bo Kang,0.0009461600125736068,Rival,Waves of Life
+233,6,Suhua,0.0029362315770123425,Protagonist,Diary of Nurse
+234,6,Changping,0.0008988758058805241,Love,Diary of Nurse
+235,6,Haoru,0.0037052440292300037,Rival,Diary of Nurse
+236,6,Pearl,0.001606602426310263,Protagonist,Duel in the Sun
+237,6,Lewt,0.001992219158878094,Love,Duel in the Sun
+238,6,Jesse,0.0022926731693110373,Rival,Duel in the Sun
+239,6,Vic,0.001755408469017523,Rival,The Man from Laramie
+240,6,Will,0.008903414110485938,Protagonist,The Man from Laramie
+241,6,Nishida,0.0034405520208121584,Protagonist,Black River
+242,6,Hitokiri Joe,0.0036461690486703086,Rival,Black River
+243,6,Shizuko,0.005546282799952206,Love,Black River
+244,6,Alicia,0.0031977891900464815,Protagonist,Notorious
+245,6,Alex Sebastian,0.0030838887822253517,Rival,Notorious
+246,6,Devlin,0.003071190536323375,Love,Notorious
+247,6,Jud,0.0012584852077940697,Rival,Oklahoma
+248,6,Laurey,0.0018437659863061058,Love,Oklahoma
+249,6,Curly,0.0008257180061223834,Protagonist,Oklahoma
+250,6,Eri,0.003200735183051532,Love,Kurutta Kajitsu
+251,6,Natsuhisa,0.0039031628382226275,Rival,Kurutta Kajitsu
+252,6,Haruji,0.004652328624950575,Protagonist,Kurutta Kajitsu
+253,6,Osan,0.0008699673075236499,Love,Chikamatsu Story
+254,6,Mohei,0.001182584413482996,Protagonist,Chikamatsu Story
+255,6,Ishun,0.0009554060318669455,Rival,Chikamatsu Story
+256,6,Johnny,0.0023529667560912085,Protagonist,Gilda
+257,6,Ballin,0.0019651802303456574,Rival,Gilda
+258,6,Gilda,0.002626043171999426,Love,Gilda
+259,6,Morgana,0.002455397107467897,Love,Vikings
+260,6,Eric,0.0034491461028843705,Protagonist,Vikings
+261,6,Einar,0.0028724322541615506,Rival,Vikings
+262,6,David,0.003825442769123654,Rival,Sabrina
+263,6,Linus,0.0025947312238386853,Love,Sabrina
+264,6,Sabrina,0.00257219791751779,Protagonist,Sabrina
+265,7,Moritoo,0.0034170488837898636,Protagonist,Jigoku Mon
+266,7,Kesa,0.001692790608138786,Love,Jigoku Mon
+267,7,Wataru,0.003587392658340932,Rival,Jigoku Mon
+268,7,Jeff,0.002841421394339283,Protagonist,Human Desire
+269,7,Vicki,0.004109858961856119,Love,Human Desire
+270,7,Keming,0.003934024715745364,Rival,Our Village
+271,7,Zhanwu,0.005507399278305594,Protagonist,Our Village
+272,7,Shuzhen,0.0038087184354536094,Love,Our Village
+273,7,Fang Qing,0.004243232662708523,Protagonist,Cliff
+274,7,Professor Yuan,0.0019333192393361448,Rival,Cliff
+275,7,Fan Jun,0.002885184633098236,Love,Cliff
+276,7,Jin Zhang,0.0027731949026381744,Protagonist,Waves of Life
+277,7,Ye Suping,0.004532177283661326,Love,Waves of Life
+278,7,Suhua,0.003063474556249034,Protagonist,Diary of Nurse
+279,7,Changping,0.0026350712026333416,Love,Diary of Nurse
+280,7,Haoru,0.0017662431639396455,Rival,Diary of Nurse
+281,7,Lewt,0.002666061234335524,Love,Duel in the Sun
+282,7,Pearl,0.002837121641503023,Protagonist,Duel in the Sun
+283,7,Vic,0.0017730463713339633,Rival,The Man from Laramie
+284,7,Will,0.002261684093659802,Protagonist,The Man from Laramie
+285,7,Barbara,0.0027302739006688824,Love,The Man from Laramie
+286,7,Nishida,0.003387192000883613,Protagonist,Black River
+287,7,Shizuko,0.005297700663508454,Love,Black River
+288,7,Hitokiri Joe,0.0016695451760092052,Rival,Black River
+289,7,Devlin,0.005352338750474388,Love,Notorious
+290,7,Alicia,0.0036401387553469918,Protagonist,Notorious
+291,7,Alex Sebastian,0.003420221547554132,Rival,Notorious
+292,7,Curly,0.0009478191299302886,Protagonist,Oklahoma
+293,7,Laurey,0.0015504730748857653,Love,Oklahoma
+294,7,Jud,0.0013669548873017506,Rival,Oklahoma
+295,7,Haruji,0.0040194029189574675,Protagonist,Kurutta Kajitsu
+296,7,Eri,0.004115864516869328,Love,Kurutta Kajitsu
+297,7,Natsuhisa,0.0019980669931618524,Rival,Kurutta Kajitsu
+298,7,Mohei,0.000818618192659599,Protagonist,Chikamatsu Story
+299,7,Osan,0.002540750871117499,Love,Chikamatsu Story
+300,7,Ishun,0.0015829051231139625,Rival,Chikamatsu Story
+301,7,Johnny,0.0026132709362726306,Protagonist,Gilda
+302,7,Gilda,0.004141193898109687,Love,Gilda
+303,7,Ballin,0.0016077350014433445,Rival,Gilda
+304,7,Einar,0.0017378195885750134,Rival,Vikings
+305,7,Eric,0.0019213456254520526,Protagonist,Vikings
+306,7,Sabrina,0.0037926295184834927,Protagonist,Sabrina
+307,7,Linus,0.002315484053257107,Love,Sabrina
+308,7,David,0.0054950238617693485,Rival,Sabrina
+309,8,Wataru,0.0010728278405186449,Rival,Jigoku Mon
+310,8,Kesa,0.0012375386874121908,Love,Jigoku Mon
+311,8,Moritoo,0.0019047655351617392,Protagonist,Jigoku Mon
+312,8,Jeff,0.003040782991800241,Protagonist,Human Desire
+313,8,Carl,0.0050558091167983155,Rival,Human Desire
+314,8,Vicki,0.0031107065517498177,Love,Human Desire
+315,8,Shuzhen,0.0011220168305331735,Love,Our Village
+316,8,Zhanwu,0.0022163277248206945,Protagonist,Our Village
+317,8,Keming,0.0013603580283949,Rival,Our Village
+318,8,Professor Yuan,0.000812342835171509,Rival,Cliff
+319,8,Fang Qing,0.004574014538393704,Protagonist,Cliff
+320,8,Fan Jun,0.001866703616365012,Love,Cliff
+321,8,Jin Zhang,0.00328217111300032,Protagonist,Waves of Life
+322,8,Bo Kang,0.002266339567903869,Rival,Waves of Life
+323,8,Haoru,0.0024769578263921584,Rival,Diary of Nurse
+324,8,Suhua,0.0028153005627311422,Protagonist,Diary of Nurse
+325,8,Jesse,0.0022228607306956955,Rival,Duel in the Sun
+326,8,Pearl,0.002102787981495594,Protagonist,Duel in the Sun
+327,8,Lewt,0.0011577632850105386,Love,Duel in the Sun
+328,8,Will,0.0008897530268464705,Protagonist,The Man from Laramie
+329,8,Vic,0.00111051998697847,Rival,The Man from Laramie
+330,8,Barbara,0.001412978963369184,Love,The Man from Laramie
+331,8,Nishida,0.004855779523138493,Protagonist,Black River
+332,8,Shizuko,0.004872217880499384,Love,Black River
+333,8,Hitokiri Joe,0.0080954679421692,Rival,Black River
+334,8,Alex Sebastian,0.004921083321321542,Rival,Notorious
+335,8,Alicia,0.00679996975849319,Protagonist,Notorious
+336,8,Devlin,0.006776396344192052,Love,Notorious
+337,8,Laurey,0.0021675573384162955,Love,Oklahoma
+338,8,Jud,0.001357077535768266,Rival,Oklahoma
+339,8,Curly,0.0014916479385167262,Protagonist,Oklahoma
+340,8,Natsuhisa,0.005735305433016648,Rival,Kurutta Kajitsu
+341,8,Haruji,0.00643652594501972,Protagonist,Kurutta Kajitsu
+342,8,Eri,0.0024521680738422477,Love,Kurutta Kajitsu
+343,8,Ishun,0.0008954018654980401,Rival,Chikamatsu Story
+344,8,Mohei,0.0007792160404664544,Protagonist,Chikamatsu Story
+345,8,Osan,0.000761004755285731,Love,Chikamatsu Story
+346,8,Johnny,0.0029706442350768336,Protagonist,Gilda
+347,8,Gilda,0.0017443911524588557,Love,Gilda
+348,8,Einar,0.010276458144401441,Rival,Vikings
+349,8,Eric,0.00989780479433694,Protagonist,Vikings
+350,8,Linus,0.0031776953645670557,Love,Sabrina
+351,8,Sabrina,0.0027266559979925924,Protagonist,Sabrina
+352,9,Moritoo,0.0016366533980866646,Protagonist,Jigoku Mon
+353,9,Kesa,0.0009762863253392345,Love,Jigoku Mon
+354,9,Wataru,0.002105212021009894,Rival,Jigoku Mon
+355,9,Vicki,0.006456328538920267,Love,Human Desire
+356,9,Jeff,0.0032741979065282405,Protagonist,Human Desire
+357,9,Carl,0.005232956361451014,Rival,Human Desire
+358,9,Keming,0.00275270479906007,Rival,Our Village
+359,9,Shuzhen,0.003964075434400039,Love,Our Village
+360,9,Zhanwu,0.0028926731220455344,Protagonist,Our Village
+361,9,Fan Jun,0.0035765279131554487,Love,Cliff
+362,9,Fang Qing,0.006643560501639942,Protagonist,Cliff
+363,9,Jin Zhang,0.0020862573939293377,Protagonist,Waves of Life
+364,9,Ye Suping,0.0024468573231321796,Love,Waves of Life
+365,9,Bo Kang,0.0011903101041235388,Rival,Waves of Life
+366,9,Suhua,0.004708851915866355,Protagonist,Diary of Nurse
+367,9,Changping,0.004539643708886817,Love,Diary of Nurse
+368,9,Haoru,0.004787511452421395,Rival,Diary of Nurse
+369,9,Pearl,0.007271407856516809,Protagonist,Duel in the Sun
+370,9,Lewt,0.003720164028269734,Love,Duel in the Sun
+371,9,Barbara,0.002870763829538105,Love,The Man from Laramie
+372,9,Vic,0.002694768835470622,Rival,The Man from Laramie
+373,9,Will,0.002679364198106362,Protagonist,The Man from Laramie
+374,9,Hitokiri Joe,0.0020405283679343625,Rival,Black River
+375,9,Shizuko,0.00394918280376881,Love,Black River
+376,9,Nishida,0.0036502834907991013,Protagonist,Black River
+377,9,Devlin,0.005206167576930946,Love,Notorious
+378,9,Alex Sebastian,0.005586905840136177,Rival,Notorious
+379,9,Alicia,0.007399774438470056,Protagonist,Notorious
+380,9,Jud,0.000985881035687676,Rival,Oklahoma
+381,9,Laurey,0.0008494509007405983,Love,Oklahoma
+382,9,Curly,0.0008960663404937083,Protagonist,Oklahoma
+383,9,Eri,0.008022824205320378,Love,Kurutta Kajitsu
+384,9,Natsuhisa,0.009847654345650596,Rival,Kurutta Kajitsu
+385,9,Haruji,0.008182254080955156,Protagonist,Kurutta Kajitsu
+386,9,Osan,0.0017088646207125682,Love,Chikamatsu Story
+387,9,Mohei,0.0016805543189108434,Protagonist,Chikamatsu Story
+388,9,Ishun,0.001402890109183052,Rival,Chikamatsu Story
+389,9,Johnny,0.002096134397416598,Protagonist,Gilda
+390,9,Gilda,0.0025823078396987023,Love,Gilda
+391,9,Ballin,0.002532496857435384,Rival,Gilda
+392,9,Einar,0.0026444807664282653,Rival,Vikings
+393,9,Morgana,0.0026484217855051845,Love,Vikings
+394,9,Eric,0.0024934576483497638,Protagonist,Vikings
+395,9,Sabrina,0.0025377714302503174,Protagonist,Sabrina
+396,9,Linus,0.002778602683517494,Love,Sabrina
+397,9,David,0.0024768302103335576,Rival,Sabrina
