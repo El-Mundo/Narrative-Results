@@ -1,28 +1,19 @@
 ,Timeline,Identity,Value,Role,Title
-0,1,Suhua,21,Protagonist,Diary of Nurse
-1,1,Haoru,9,Rival,Diary of Nurse
-2,1,Changping,8,Love,Diary of Nurse
-3,2,Haoru,43,Rival,Diary of Nurse
-4,2,Suhua,37,Protagonist,Diary of Nurse
-5,2,Changping,11,Love,Diary of Nurse
-6,3,Suhua,77,Protagonist,Diary of Nurse
-7,3,Haoru,6,Rival,Diary of Nurse
-8,3,Changping,0,Love,Diary of Nurse
-9,4,Suhua,43,Protagonist,Diary of Nurse
-10,4,Changping,40,Love,Diary of Nurse
-11,4,Haoru,5,Rival,Diary of Nurse
-12,5,Changping,12,Love,Diary of Nurse
-13,5,Suhua,28,Protagonist,Diary of Nurse
-14,5,Haoru,2,Rival,Diary of Nurse
-15,6,Suhua,58,Protagonist,Diary of Nurse
-16,6,Changping,4,Love,Diary of Nurse
-17,6,Haoru,1,Rival,Diary of Nurse
-18,7,Suhua,45,Protagonist,Diary of Nurse
-19,7,Changping,9,Love,Diary of Nurse
-20,7,Haoru,16,Rival,Diary of Nurse
-21,8,Haoru,47,Rival,Diary of Nurse
-22,8,Suhua,65,Protagonist,Diary of Nurse
-23,8,Changping,0,Love,Diary of Nurse
-24,9,Suhua,60,Protagonist,Diary of Nurse
-25,9,Changping,15,Love,Diary of Nurse
-26,9,Haoru,5,Rival,Diary of Nurse
+0,1,Jud,2,Rival,Oklahoma
+1,1,Professor,0,Rival,Cliff
+2,2,Professor,26,Rival,Cliff
+3,2,Jud,2,Rival,Oklahoma
+4,3,Professor,30,Rival,Cliff
+5,3,Jud,0,Rival,Oklahoma
+6,4,Professor,46,Rival,Cliff
+7,4,Jud,95,Rival,Oklahoma
+8,5,Professor,21,Rival,Cliff
+9,5,Jud,43,Rival,Oklahoma
+10,6,Professor,28,Rival,Cliff
+11,6,Jud,25,Rival,Oklahoma
+12,7,Professor,29,Rival,Cliff
+13,7,Jud,19,Rival,Oklahoma
+14,8,Professor,1,Rival,Cliff
+15,8,Jud,19,Rival,Oklahoma
+16,9,Jud,1,Rival,Oklahoma
+17,9,Professor,0,Rival,Cliff
