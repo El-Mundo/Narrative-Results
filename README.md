@@ -1,4 +1,4 @@
-This repository contains the derived results and analysis scripts for the case study in [article title].
+This repository contains the derived results and analysis scripts for the case study in "On Face Clustering in Digital Humanities: Love Triangle, Character Space, and Ideology in Postwar Film Narratives".
 
 The original film files are not included because of copyright restrictions. The analysed films were processed from legally obtained digital copies. Detailed edition-level source provenance was not systematically logged during the original analysis, so the materials provided here focus on derived data, processing metadata, and reproducible analysis steps.
 
